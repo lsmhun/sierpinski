@@ -1,0 +1,2 @@
+# sierpinski
+Small Sierpinksi generator
